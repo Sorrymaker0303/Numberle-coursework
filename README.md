@@ -45,7 +45,7 @@ GUI版本应该有一个按钮来要求一个新的游戏，只有在第一次�
 
 
 #### 特技
-
+![img.png](img.png)
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
 3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
